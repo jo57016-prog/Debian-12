@@ -12,16 +12,16 @@ Perangkat dan kebutuhan:
 - Ruang penyimpanan yang cukup
 
  3. Tahapan Instalasi
-1. Download ISO Debian 12 dari situs resmi.
-2. Siapkan VirtualBox atau media instalasi.
-3. Boot menggunakan ISO Debian 12.
-4. Pilih menu Graphical Install.
-5. Atur bahasa dan lokasi.
-6. Konfigurasi jaringan.
-7. Atur hostname dan akun pengguna.
-8. Atur partisi penyimpanan.
-9. Selesaikan proses instalasi.
-10. Restart sistem.
+1. Download ISO Debian 12 dari situs resmi
+2. Siapkan VirtualBox atau media instalasi
+3. Boot menggunakan ISO Debian 12
+4. Pilih menu Graphical Install
+5. Atur bahasa dan lokasi
+6. Konfigurasi jaringan
+7. Atur hostname dan akun pengguna
+8. Atur partisi penyimpanan
+9. Selesaikan proses instalasi
+10. Restart sistem
 
  4. Hasil
 Bagian ini akan diisi dengan screenshot proses instalasi Debian 12.
