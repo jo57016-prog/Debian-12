@@ -20,8 +20,7 @@ Repository ini berisi dokumentasi instalasi dan konfigurasi Debian 12 (Bookworm)
 ## Operating System
 - Debian GNU/Linux 12 (Bookworm)
 
-## Author
-Aidil Habibi Ritonga
+##AuthorAJohannesN Meilano Sinaga
 
 ## Status
 Learning Project – Dokumentasi Praktik TKJ.
